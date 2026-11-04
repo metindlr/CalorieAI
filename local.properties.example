@@ -1,0 +1,13 @@
+# Bu dosyayı "local.properties" olarak kopyala (git'e EKLEME!)
+sdk.dir=/Users/SEN/Library/Android/sdk
+# https://aistudio.google.com/apikey adresinden ücretsiz al
+GEMINI_API_KEY=BURAYA_ANAHTAR
+# Yayına çıkarken AdMob panelinden aldığın GERÇEK id'ler (boşsa test reklamı gösterilir)
+ADMOB_APP_ID=ca-app-pub-3940256099942544~3347511713
+AD_BANNER=ca-app-pub-3940256099942544/9214589741
+AD_INTERSTITIAL=ca-app-pub-3940256099942544/1033173712
+AD_REWARDED=ca-app-pub-3940256099942544/5224354917
+
+# --- Güvenli mod (ÖNERİLEN): proxy/worker.js'i deploy et, URL + token'ı yaz; GEMINI_API_KEY'i boş bırak ---
+PROXY_URL=
+PROXY_TOKEN=
